@@ -1,7 +1,7 @@
 # Build-Self-Driving-Car
 Buiding a self-driving car by myself ， Focus on ___Multi-Sensor-Fusion___
 ****
-编程基础：Python3、C++、Linux、ROS、shell
+编程基础：Python3、C++、Linux、ROS、shell、markdown
 >Python
 >>- [ ] 基本语法
 >>- [ ] 中级语法
