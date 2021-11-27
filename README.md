@@ -47,6 +47,8 @@ Buiding a self-driving car by myself ， Focus on ___Multi-Sensor-Fusion___
 >融合感知算法
 >>- [ ] CCVNorm
 >>- [ ] Point-RCNN
+>>- [ ] PointNet
+
 ****
 理论学习：
 >- [ ] 《数学之美》
